@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielcj7
 - 👀 I’m interested in developer job.
-- 🌱 I’m currently learning javascript, python, react and other news technologies.
+- 🌱 I’m currently learning javascript, react, node, react.native and other news technologies.
 - 💞️ I’m looking to collaborate innovative projects.
 - 📫 How to reach me: daniel.cordeirojacinto@gmail.com
 
